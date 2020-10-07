@@ -17,8 +17,8 @@ number_of_boxes_in_container = 10  # you can change - number of boxes for one co
 # design settings
 x_resolution = 480  # you can change - X screen resolution
 y_resolution = 320  # you can change - Y screen resolution
-background_color = '#2e2e2e'  # you can change - major color
-main_color = '#888'  # you can change - line color
+background_color = "#2e2e2e"  # you can change - major color
+main_color = "#888"  # you can change - line color
 text_font = "Arial"  # you can change - font of text
 big_font_size = 100  # you can change - big size of text
 lateral_correction = 1.8  # you can change - lateral correction for side symbol
